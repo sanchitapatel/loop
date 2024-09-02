@@ -3,6 +3,6 @@ for x in fruits:
   print(x)
 
 def my_function():
-  print("Hello from a function")
+  print("Hello From a Function")
 
 my_function()
